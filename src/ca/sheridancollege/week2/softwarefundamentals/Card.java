@@ -47,7 +47,7 @@ public class Card
         {
             System.out.println("The suit you have tried to assign is not valid");
             System.out.println("Please choose from: Hearts, Diamonds, Clubs, Spades");
-            System.out.println("Stuff & Things");
+            System.out.println("Stuff & Things & Things & Stuff");
         }
     }
 
