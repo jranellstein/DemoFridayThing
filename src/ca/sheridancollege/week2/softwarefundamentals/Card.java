@@ -8,7 +8,8 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo
- * @author megha,2019
+ * @author megha,2019 
+ * @co-author justin,2019
  */
 public class Card 
 {
@@ -46,6 +47,7 @@ public class Card
         {
             System.out.println("The suit you have tried to assign is not valid");
             System.out.println("Please choose from: Hearts, Diamonds, Clubs, Spades");
+            System.out.println("Things");
         }
     }
 
